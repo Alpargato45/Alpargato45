@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAlpargato45=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAlpargato45=anuraghazra&show_icons=true)
+[![Alpargato45's GitHub stats](https://github-readme-stats.vercel.app/apiAlpargato45=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Alpargato45's GitHub stats](https://github-readme-stats.vercel.app/apiAlpargato45=anuraghazra&show_icons=true)
 
 <!--
 **Alpargato45/Alpargato45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
