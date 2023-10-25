@@ -4,6 +4,15 @@
 
 ---
 
+<div align="center">
+  You can connect with me in Linkedin!
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/jorgedelcidmoreno/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
 <!--
