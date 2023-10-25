@@ -1,4 +1,5 @@
-[![Alpargato45's GitHub stats](https://github-readme-stats.vercel.app/apiAlpargato45=anuraghazra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Alpargato45's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpargato45&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
