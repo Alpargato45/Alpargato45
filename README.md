@@ -18,6 +18,8 @@
 
 ---
 
+### If there is something in my GitHub that you find useful, I would really appreciate a star 🌟😊😊
+
 <div align="center">
   You can connect with me in Linkedin!
 </div>
