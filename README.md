@@ -13,12 +13,11 @@
 [![My Skills](https://skillicons.dev/icons?i=angular,aws,flutter,mongodb,postman,swift,&perline=3)](https://skillicons.dev)
 
 ***
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alpargato45&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alpargato45&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpargato45&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
 
-|:-:|:-:|
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alpargato45&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpargato45&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 ---
 
 ## Activity On GitHub
