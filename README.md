@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=angular,aws,flutter,mongodb,postman,swift,&perline=3)](https://skillicons.dev)
 
 ***
-| ![Alpargato45's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpargato45&hide=issues&show_icons=true&theme=tokyonight&hide_border=true &include_all_commits=true&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpargato45&layout=compact&theme=tokyonight&hide_border=true &include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats &include_all_commits=true&count_private=true) |
+| ![Alpargato45's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpargato45&hide=issues&show_icons=true&theme=tokyonight&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpargato45&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 |:-:|:-:|
 
 ---
