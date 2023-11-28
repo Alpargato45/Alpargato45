@@ -16,7 +16,7 @@
 # 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alpargato45&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpargato45&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpargato45&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=prs,issues,contribs)
 
 ---
 
